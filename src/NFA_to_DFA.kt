@@ -63,7 +63,7 @@ fun NFAtoDFA(fileName : String) {
 
 fun main() {
 
-    val fileName = "file1.txt"
+    val fileName = "file2.txt"
 
     try {
         NFAtoDFA(fileName)
